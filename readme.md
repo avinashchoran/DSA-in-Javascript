@@ -37,6 +37,9 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Move Zeroes](./Patterns/Two%20Pointers/Move%20Zeros.js)
 - [Container With Most Water](./Patterns/Two%20Pointers/Container%20With%20Most%20Water.js)
 
+### Sliding Window
+- [Maximum Sum Subarray of Size K](./Patterns/Sliding%20Window/Maximum%20Sum%20Subarray%20of%20Size%20K.js)
+
 *(This list will grow daily!)*
 
 ## Contributing
