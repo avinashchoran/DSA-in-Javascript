@@ -40,6 +40,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 ### Sliding Window
 - [Maximum Sum Subarray of Size K](./Patterns/Sliding%20Window/Maximum%20Sum%20Subarray%20of%20Size%20K.js)
 - [Longest Substring with K Distinct Characters](./Patterns/Sliding%20Window/Longest%20Substring%20with%20K%20Distinct%20Characters.js)
+- [Longest Substring with Same Letters After Replacement](./Patterns/Sliding%20Window/Longest%20Substring%20with%20Same%20Letters%20After%20Replacement.js)
 
 *(This list will grow daily!)*
 
