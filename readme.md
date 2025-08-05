@@ -41,6 +41,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Maximum Sum Subarray of Size K](./Patterns/Sliding%20Window/Maximum%20Sum%20Subarray%20of%20Size%20K.js)
 - [Longest Substring with K Distinct Characters](./Patterns/Sliding%20Window/Longest%20Substring%20with%20K%20Distinct%20Characters.js)
 - [Longest Substring with Same Letters After Replacement](./Patterns/Sliding%20Window/Longest%20Substring%20with%20Same%20Letters%20After%20Replacement.js)
+- [Find the Smallest Subarray with a Given Sum](./Patterns/Sliding%20Window/Find%20the%20Smallest%20Subarray%20with%20a%20Given%20Sum.js)
 
 *(This list will grow daily!)*
 
