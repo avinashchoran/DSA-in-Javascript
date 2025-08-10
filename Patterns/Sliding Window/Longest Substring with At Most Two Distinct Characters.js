@@ -74,20 +74,46 @@ class Solution {
     }
 }
 
-// Example Usage (for testing purposes)
-const sol = new Solution();
+// --- Test Cases ---
+function runTests() {
+    const sol = new Solution();
+    const testCases = [
+        // Provided examples
+        { input: "eceba", expected: 3, description: "Example 1" },
+        { input: "ccaabbb", expected: 5, description: "Example 2" },
 
-const s1 = "eceba";
-console.log(`Input: '${s1}', Output: ${sol.lengthOfLongestSubstringTwoDistinct(s1)}`); // Expected: 3
+        // Additional tests from original file
+        { input: "abaccc", expected: 4, description: "Longest substring at the end" },
+        { input: "abcabcabc", expected: 2, description: "Alternating distinct characters" },
+        { input: "aa", expected: 2, description: "String with two same characters" },
 
-const s2 = "ccaabbb";
-console.log(`Input: '${s2}', Output: ${sol.lengthOfLongestSubstringTwoDistinct(s2)}`); // Expected: 5
+        // Edge cases
+        { input: "a", expected: 1, description: "Single character string" },
+        { input: "ab", expected: 2, description: "String with exactly two distinct characters" },
+        { input: "aaaaa", expected: 5, description: "String with one distinct character" },
+        { input: "", expected: 0, description: "Empty string" },
+        { input: "cdaba", expected: 3, description: "Longest substring in the middle ('aba')" },
+    ];
 
-const s3 = "abcabcabc";
-console.log(`Input: '${s3}', Output: ${sol.lengthOfLongestSubstringTwoDistinct(s3)}`); // Expected: 2 (e.g., "ab", "bc")
+    let failedTests = 0;
+    console.log("Running tests for Longest Substring with At Most Two Distinct Characters...");
+    testCases.forEach((test, index) => {
+        const result = sol.lengthOfLongestSubstringTwoDistinct(test.input);
+        if (result !== test.expected) {
+            console.error(`\n❌ Test Case ${index + 1} Failed: ${test.description}`);
+            console.error(`  Input:    "${test.input}"`);
+            console.error(`  Expected: ${test.expected}`);
+            console.error(`  Got:      ${result}`);
+            failedTests++;
+        }
+    });
 
-const s4 = "aa";
-console.log(`Input: '${s4}', Output: ${sol.lengthOfLongestSubstringTwoDistinct(s4)}`); // Expected: 2
+    console.log("\n--- Test Summary ---");
+    if (failedTests === 0) {
+        console.log(`✅ All ${testCases.length} test cases passed!`);
+    } else {
+        console.error(`${failedTests} out of ${testCases.length} tests failed.`);
+    }
+}
 
-const s5 = "abaccc";
-console.log(`Input: '${s5}', Output: ${sol.lengthOfLongestSubstringTwoDistinct(s5)}`); // Expected: 4 (e.g., "accc")
+runTests();
