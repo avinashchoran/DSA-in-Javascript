@@ -45,6 +45,8 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Longest Substring with At Most Two Distinct Characters](./Patterns/Sliding%20Window/Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.js)
 - [Permutation in a String](./Patterns/Sliding%20Window/Permutation%20in%20a%20String.js)
 - [Longest Substring Without Repeating Characters](./Patterns/Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters.js)
+- [Minimum Window Substring](./Patterns/Sliding%20Window/Minimum%20Window%20Substring.js)
+
 
 *(This list will grow daily!)*
 
