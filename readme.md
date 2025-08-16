@@ -51,6 +51,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Reverse a Linked List](./Patterns/Linked%20List/Reverse%20a%20Linked%20List.js)
 - [Palindrome Linked List](./Patterns/Linked%20List/Palindrome%20Linked%20List.js)
 - [Merge Two Sorted Lists](./Patterns/Linked%20List/Merge%20Two%20Sorted%20Lists.js)
+- [Cycle Detection in a Linked List](./Patterns/Linked%20List/Cycle%20Detection%20in%20a%20Linked%20List.js)
 
 *(This list will grow daily!)*
 
