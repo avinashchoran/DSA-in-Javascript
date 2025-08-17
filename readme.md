@@ -31,9 +31,9 @@ The problems are organized by the pattern they represent. This helps in recogniz
 ## Current Problems
 
 ### Two Pointers
-- [Two Sum (for sorted array)](./Patterns/Two%20Pointers/Two%20Sum.js)
+- [Two Sum](./Patterns/Two%20Pointers/Two%20Sum.js)
 - [Valid Palindrome](./Patterns/Two%20Pointers/Valid%20Palindrome.js)
-- [Remove Duplicates from Sorted Array](./Patterns/Two%20Pointers/Remove%20Duplicates.js)
+- [Remove Duplicates](./Patterns/Two%20Pointers/Remove%20Duplicates.js)
 - [Move Zeroes](./Patterns/Two%20Pointers/Move%20Zeros.js)
 - [Container With Most Water](./Patterns/Two%20Pointers/Container%20With%20Most%20Water.js)
 
