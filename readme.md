@@ -46,6 +46,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Permutation in a String](./Patterns/Sliding%20Window/Permutation%20in%20a%20String.js)
 - [Longest Substring Without Repeating Characters](./Patterns/Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters.js)
 - [Minimum Window Substring](./Patterns/Sliding%20Window/Minimum%20Window%20Substring.js)
+- [Subarray Sum Equals K](./Patterns/Sliding%20Window/Subarray%20Sum%20Equals%20K.js)
 
 ### Linked List
 - [Reverse a Linked List](./Patterns/Linked%20List/Reverse%20a%20Linked%20List.js)
