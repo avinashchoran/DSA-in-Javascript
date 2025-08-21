@@ -56,6 +56,11 @@ The problems are organized by the pattern they represent. This helps in recogniz
 
 *(This list will grow daily!)*
 
+### Prefix Sum
+- [Product of Array Except Self](./Patterns/Prefix%20Sum/Product%20of%20Array%20Except%20Self.js)
+- [Range Sum Query - Immutable](./Patterns/Prefix%20Sum/Range%20Sum%20Query%20-%20Immutable.js)
+- [Subarray Sum Equals K](./Patterns/Prefix%20Sum/Subarray%20Sum%20Equals%20K.js)
+
 ## Contributing
 
 While this is a personal project, feedback and suggestions are always welcome! If you see a way to improve a solution or want to suggest a "must-know" problem, feel free to open an issue or a pull request.
