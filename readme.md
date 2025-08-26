@@ -31,11 +31,15 @@ The problems are organized by the pattern they represent. This helps in recogniz
 ## Current Problems
 
 ### Two Pointers
-- [Two Sum](./Patterns/Two%20Pointers/Two%20Sum.js)
 - [Valid Palindrome](./Patterns/Two%20Pointers/Valid%20Palindrome.js)
 - [Remove Duplicates](./Patterns/Two%20Pointers/Remove%20Duplicates.js)
 - [Move Zeroes](./Patterns/Two%20Pointers/Move%20Zeros.js)
 - [Container With Most Water](./Patterns/Two%20Pointers/Container%20With%20Most%20Water.js)
+
+### Hashing
+- [Two Sum](./Patterns/Hashing/Two%20Sum.js)
+- [Group Anagrams](./Patterns/Hashing/Group%20Anagrams.js)
+- [Top K Frequent Elements](./Patterns/Hashing/Top%20K%20Frequent%20Elements.js)
 
 ### Sliding Window
 - [Maximum Sum Subarray of Size K](./Patterns/Sliding%20Window/Maximum%20Sum%20Subarray%20of%20Size%20K.js)
