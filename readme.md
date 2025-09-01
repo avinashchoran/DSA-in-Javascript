@@ -68,6 +68,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Two Sum](./Patterns/Two%20Pointers/Two%20Sum.js)
 - [Valid Palindrome](./Patterns/Two%20Pointers/Valid%20Palindrome.js)
 
+
 ## Contributing
 
 While this is a personal project, feedback and suggestions are always welcome! If you see a way to improve a solution or want to suggest a "must-know" problem, feel free to open an issue or a pull request.
