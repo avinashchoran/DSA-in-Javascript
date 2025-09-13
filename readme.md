@@ -31,6 +31,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 ## Current Problems
 
 ### Hashing
+- [4Sum II](Patterns/Hashing/4Sum%20II.js)
 - [Contains Duplicate](Patterns/Hashing/Contains%20Duplicate.js)
 - [Group Anagrams](Patterns/Hashing/Group%20Anagrams.js)
 - [Intersection of Two Arrays II](Patterns/Hashing/Intersection%20of%20Two%20Arrays%20II.js)
@@ -40,7 +41,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Two Sum](Patterns/Hashing/Two%20Sum.js)
 - [Valid Anagram](Patterns/Hashing/Valid%20Anagram.js)
 
-### Kadane's algorithm
+### Kandane's algorithm
 - (no files yet)
 
 ### Linked List
@@ -53,26 +54,26 @@ The problems are organized by the pattern they represent. This helps in recogniz
 
 ### Prefix Sum
 - [Find Pivot Index](Patterns/Prefix%20Sum/Find%20Pivot%20Index.js)
+- [Find the Highest Altitude](Patterns/Prefix%20Sum/Find%20the%20Highest%20Altitude.js)
 - [Product of Array Except Self](Patterns/Prefix%20Sum/Product%20of%20Array%20Except%20Self.js)
 - [Range Sum Query - Immutable](Patterns/Prefix%20Sum/Range%20Sum%20Query%20-%20Immutable.js)
 - [Subarray Sum Equals K](Patterns/Prefix%20Sum/Subarray%20Sum%20Equals%20K.js)
-- [Find the Highest Altitude](Patterns/Prefix%20Sum/Find%20the%20Highest%20Altitude.js)
 
 ### Sliding Window
 - [Find the Smallest Subarray with a Given Sum](Patterns/Sliding%20Window/Find%20the%20Smallest%20Subarray%20with%20a%20Given%20Sum.js)
-- [Maximum Sum Subarray of Size K](Patterns/Sliding%20Window/Maximum%20Sum%20Subarray%20of%20Size%20K.js)
-- [Minimum Window Substring](Patterns/Sliding%20Window/Minimum%20Window%20Substring.js)
-- [Permutation in a String](Patterns/Sliding%20Window/Permutation%20in%20a%20String.js)
 - [Longest Substring with At Most Two Distinct Characters](Patterns/Sliding%20Window/Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.js)
 - [Longest Substring with K Distinct Characters](Patterns/Sliding%20Window/Longest%20Substring%20with%20K%20Distinct%20Characters.js)
 - [Longest Substring with Same Letters After Replacement](Patterns/Sliding%20Window/Longest%20Substring%20with%20Same%20Letters%20After%20Replacement.js)
 - [Longest Substring Without Repeating Characters](Patterns/Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters.js)
+- [Maximum Sum Subarray of Size K](Patterns/Sliding%20Window/Maximum%20Sum%20Subarray%20of%20Size%20K.js)
+- [Minimum Window Substring](Patterns/Sliding%20Window/Minimum%20Window%20Substring.js)
+- [Permutation in a String](Patterns/Sliding%20Window/Permutation%20in%20a%20String.js)
 
 ### Two Pointers
 - [Container With Most Water](Patterns/Two%20Pointers/Container%20With%20Most%20Water.js)
 - [Move Zeros](Patterns/Two%20Pointers/Move%20Zeros.js)
 - [Remove Duplicates](Patterns/Two%20Pointers/Remove%20Duplicates.js)
-- [Two Sum (sorted array)](Patterns/Two%20Pointers/Two%20Sum.js)
+- [Two Sum](Patterns/Two%20Pointers/Two%20Sum.js)
 - [Valid Palindrome](Patterns/Two%20Pointers/Valid%20Palindrome.js)
 
 ## Contributing
