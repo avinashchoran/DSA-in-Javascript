@@ -35,6 +35,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Contains Duplicate](Patterns/Hashing/Contains%20Duplicate.js)
 - [Group Anagrams](Patterns/Hashing/Group%20Anagrams.js)
 - [Intersection of Two Arrays II](Patterns/Hashing/Intersection%20of%20Two%20Arrays%20II.js)
+- [Jewels and Stones](Patterns/Hashing/Jewels%20and%20Stones.js)
 - [Longest Consecutive Sequence](Patterns/Hashing/Longest%20Consecutive%20Sequence.js)
 - [Ransom Note](Patterns/Hashing/Ransom%20Note.js)
 - [Single Number](Patterns/Hashing/Single%20Number.js)
