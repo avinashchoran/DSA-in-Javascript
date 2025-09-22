@@ -54,6 +54,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Remove Nth Node From End of List](Patterns/Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List.js)
 - [Reverse a Linked List](Patterns/Linked%20List/Reverse%20a%20Linked%20List.js)
 - [Reorder List](Patterns/Linked%20List/Reorder%20List.js)
+- [Copy List with Random Pointer](Patterns/Linked%20List/Copy%20List%20with%20Random%20Pointer.js)
 
 ### Prefix Sum
 - [Find Pivot Index](Patterns/Prefix%20Sum/Find%20Pivot%20Index.js)
