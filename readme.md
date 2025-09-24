@@ -77,6 +77,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Container With Most Water](Patterns/Two%20Pointers/Container%20With%20Most%20Water.js)
 - [Move Zeros](Patterns/Two%20Pointers/Move%20Zeros.js)
 - [Remove Duplicates](Patterns/Two%20Pointers/Remove%20Duplicates.js)
+- [Squares of a Sorted Array](Patterns/Two%20Pointers/Squares%20of%20a%20Sorted%20Array.js)
 - [Two Sum](Patterns/Two%20Pointers/Two%20Sum.js)
 - [Valid Palindrome](Patterns/Two%20Pointers/Valid%20Palindrome.js)
 
