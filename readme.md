@@ -61,6 +61,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Find the Highest Altitude](Patterns/Prefix%20Sum/Find%20the%20Highest%20Altitude.js)
 - [Product of Array Except Self](Patterns/Prefix%20Sum/Product%20of%20Array%20Except%20Self.js)
 - [Range Sum Query - Immutable](Patterns/Prefix%20Sum/Range%20Sum%20Query%20-%20Immutable.js)
+- [Range Sum Query 2D - Immutable](Patterns/Prefix%20Sum/Range%20Sum%20Query%202D%20-%20Immutable.js)
 - [Subarray Sum Equals K](Patterns/Prefix%20Sum/Subarray%20Sum%20Equals%20K.js)
 
 ### Sliding Window
