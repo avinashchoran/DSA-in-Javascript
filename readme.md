@@ -55,6 +55,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Reverse a Linked List](Patterns/Linked%20List/Reverse%20a%20Linked%20List.js)
 - [Reorder List](Patterns/Linked%20List/Reorder%20List.js)
 - [Copy List with Random Pointer](Patterns/Linked%20List/Copy%20List%20with%20Random%20Pointer.js)
+- [Merge k Sorted Lists](Patterns/Linked%20List/Merge%20k%20Sorted%20Lists.js)
 
 ### Prefix Sum
 - [Find Pivot Index](Patterns/Prefix%20Sum/Find%20Pivot%20Index.js)
