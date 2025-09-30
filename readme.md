@@ -76,6 +76,7 @@ The problems are organized by the pattern they represent. This helps in recogniz
 - [Permutation in a String](Patterns/Sliding%20Window/Permutation%20in%20a%20String.js)
 
 ### Two Pointers
+- [3Sum](Patterns/Two%20Pointers/3Sum.js)
 - [Container With Most Water](Patterns/Two%20Pointers/Container%20With%20Most%20Water.js)
 - [Move Zeros](Patterns/Two%20Pointers/Move%20Zeros.js)
 - [Remove Duplicates](Patterns/Two%20Pointers/Remove%20Duplicates.js)
