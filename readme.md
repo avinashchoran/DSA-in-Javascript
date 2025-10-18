@@ -93,4 +93,4 @@ While this is a personal project, feedback and suggestions are always welcome! I
 If you'd like, I can:
 - Add missing problem files to any pattern folder in the repo format.
 - Generate a template for new problems that matches the repository style.
-- Link specific functions or symbols to their implementations (e.g. [`findPermutation`](Patterns/Sliding%20Window/Permutation%20in%20a%20String.js)
+- Link specific functions or symbols to their implementations (e.g. [`findPermutation`](Patterns/Sliding%20Window/Permutation%20in%20a%20String.js))
